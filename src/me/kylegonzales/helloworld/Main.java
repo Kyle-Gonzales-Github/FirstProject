@@ -8,6 +8,6 @@ public class Main {
 	}
 	
 	public static void update() {
-		System.out.println("Update!");
+		System.out.println("Update I love updates!");
 	}
 }
